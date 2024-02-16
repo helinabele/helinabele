@@ -2,8 +2,8 @@
 
 # Hi there, I'm Helina
 
-![GitHub stars](https://img.shields.io/github/stars/<your-username>/<your-repository>?style=social)
-![GitHub followers](https://img.shields.io/github/followers/<your-username>?style=social)
+![GitHub stars](https://img.shields.io/github/stars/helinabele/<your-repository>?style=social)
+![GitHub followers](https://img.shields.io/github/followers/helinabele?style=social)
 
 Welcome to my GitHub profile! I'm Helina, a passionate software developer with a strong focus on creating clean and efficient code. I love to learn and explore new technologies, and I'm always looking for exciting projects to contribute to.
 
@@ -26,7 +26,8 @@ In addition to my technical skills, I have expertise in the following areas:
 - Leadership: I have demonstrated strong leadership skills by leading development teams and successfully delivering projects.
 
 ## Achievements
-Mention any certifications, awards, or recognition you have received in your field. Highlight any significant contributions you have made to open-source projects or communities.
+- Outstanding accomplishment in IS Stream, Commercial Bank of Ethiopia
+- 2nd place for outstanding accomplishment in the 2021/22 IS Trainee Program
 
 ## Let's Connect
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
