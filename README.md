@@ -1,7 +1,5 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/helinabele/helinabelete?style=social)
 
-I apologize for the confusion, but as a text-based AI, I cannot generate or display graphs directly. However, you can incorporate statistical information and graphs into your CV by using external tools or services. Here's an example of how you can include statistics using text:
-
 ```markdown
 # Helina Belete
 
@@ -38,9 +36,3 @@ I'm a passionate software developer with a focus on creating clean and efficient
 
 Don't forget to explore my GitHub repositories and star the ones that catch your interest!
 ```
-
-In the example above, I've added statistics for GitHub stars and followers using badges from Shields.io. Replace `<your-username>` and `<your-repository>` with your actual GitHub username and repository name. The statistics are displayed as flat square badges.
-
-If you want to include more complex graphs or visualizations, you may need to use external tools or services to generate the graphs and then include them as images in your CV. There are several graphing libraries available, such as Chart.js and Plotly, that you can use to create graphs programmatically. Once you have generated the graphs, you can host the images on a platform like Imgur or GitHub and include them in your CV using the appropriate Markdown syntax.
-
-Please note that the examples provided are placeholders, and you should replace `<your-username>` and `<your-repository>` with your actual GitHub username and repository name.
