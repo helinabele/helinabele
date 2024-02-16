@@ -6,6 +6,8 @@
 
 ---
 
+- GitHub Stars: ![GitHub stars](https://img.shields.io/github/stars/helinabele/<your-repository>?style=social&logo=github)
+- GitHub Followers: ![GitHub followers](https://img.shields.io/github/followers/helinabele?style=social&logo=github)
 **About Me:**
 
 I'm a passionate software developer with a focus on creating clean and efficient code. My expertise lies in JavaScript, Java, TypeScript, Git, and more. I'm always eager to learn and explore new technologies, and I thrive on exciting projects that challenge me.
@@ -22,11 +24,6 @@ I'm a passionate software developer with a focus on creating clean and efficient
 
 - Outstanding accomplishment in IS Stream, Commercial Bank of Ethiopia
 - 2nd place for outstanding accomplishment in the 2021/22 IS Trainee Program
-
-**Statistics:**
-
-- GitHub Stars: ![GitHub stars](https://img.shields.io/github/stars/<your-username>/<your-repository>?style=social&logo=github)
-- GitHub Followers: ![GitHub followers](https://img.shields.io/github/followers/<your-username>?style=social&logo=github)
 
 **Let's Connect:**
 
