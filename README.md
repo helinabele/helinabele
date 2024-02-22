@@ -2,7 +2,7 @@
 
 # Helina Belete
 
-## Software Developer | GitHub Enthusiast
+## Software Developer | IT Enthusiast
 
 ---
 
